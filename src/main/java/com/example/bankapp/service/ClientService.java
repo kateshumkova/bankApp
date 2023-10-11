@@ -1,4 +1,4 @@
-package com.example.bankapp.service.impl;
+package com.example.bankapp.service;
 
 import com.example.bankapp.entities.ClientEntity;
 
