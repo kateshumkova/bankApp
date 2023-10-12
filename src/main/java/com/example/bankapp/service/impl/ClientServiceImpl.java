@@ -2,8 +2,8 @@ package com.example.bankapp.service.impl;
 
 import com.example.bankapp.entities.ClientEntity;
 import com.example.bankapp.repository.ClientRepository;
+import com.example.bankapp.service.ClientService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
